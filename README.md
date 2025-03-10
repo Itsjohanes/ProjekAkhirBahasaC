@@ -34,10 +34,5 @@ Menambahkan fitur konversi suhu atau mata uang.
 
 Membuat program untuk menghitung luas dan keliling bangun datar.
 
-Menggunakan perulangan dan percabangan lain untuk variasi implementasi.
-
-Membuat tampilan lebih menarik dengan penggunaan warna pada terminal.
-
-Mengembangkan menjadi aplikasi berbasis GUI sederhana.
 
 Selamat belajar dan bereksperimen dengan kode ini! 🚀
