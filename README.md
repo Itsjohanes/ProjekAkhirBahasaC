@@ -1,8 +1,8 @@
-Kalkulator Sederhana dalam C
-
+**Kalkulator Sederhana dalam C
+**
 Program ini adalah kalkulator sederhana berbasis terminal yang ditulis dalam bahasa C. Program ini memungkinkan pengguna untuk melakukan operasi matematika dasar seperti penjumlahan, pengurangan, perkalian, dan pembagian.
 
-Fitur
+**Fitur**
 
 Input & Output menggunakan printf() dan scanf()
 
@@ -14,8 +14,8 @@ Perulangan dengan do-while
 
 Fungsi dan prosedur untuk modularisasi kode
 
-Cara Menggunakan
-
+**Cara Menggunakan
+**
 Jalankan program menggunakan Online GDB / DevC++
 
 Pilih salah satu operasi dari menu yang ditampilkan.
@@ -26,8 +26,8 @@ Program akan menampilkan hasil dari operasi yang dipilih.
 
 Program akan kembali ke menu utama hingga pengguna memilih opsi keluar.
 
-Pengembangan Lebih Lanjut
-
+**Pengembangan Lebih Lanjut
+**
 Siswa dapat mengembangkan program ini dengan menerapkan kasus lain, misalnya:
 
 Menambahkan fitur konversi suhu atau mata uang.
